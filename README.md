@@ -240,7 +240,7 @@ In the project directory, you can run:
 Here you can add screenshots or GIFs of your components in action.
 
 **DataTable with Sorting and Selection**
-![Image Alt]()
+![Image Alt](https://github.com/RaoAviralYadav/UI-Library/blob/228c48b12de0cd33003d0368843051f18696c7e2/public/DT%20Custom%20Not%20Found.png)
 
 **InputField Form in Different States (Error, Loading)**
 *(Your screenshot/GIF here)*
