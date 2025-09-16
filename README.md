@@ -1,6 +1,6 @@
 # Project Title: Advanced Component Library
 
-A curated collection of robust, reusable, and well-tested React components, built with Next.js, TypeScript, and Tailwind CSS. This library is developed and documented using Storybook for a superior developer experience.
+A curated collection of robust, reusable, and well-tested React components, built with React, TypeScript, and Tailwind CSS. This library is developed and documented using Storybook for a superior developer experience.
 
 **[➡️ View Live Demo](https://ui-library-sepia-seven.vercel.app/)**
 
