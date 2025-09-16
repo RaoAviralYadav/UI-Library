@@ -19,7 +19,7 @@ A curated collection of robust, reusable, and well-tested React components, buil
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Available Scripts](#available-scripts)
-- [Showcase](#showcase)
+- [Showcase (Gifs & Screenshots)](#showcase)
 
 -----
 
