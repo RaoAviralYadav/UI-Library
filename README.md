@@ -237,7 +237,7 @@ In the project directory, you can run:
 
 ## Showcase
 
-Here you can add screenshots or GIFs of your components in action.
+
 
 **DataTable with Sorting and Selection**
 ![Default](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20Default.gif)
@@ -255,7 +255,15 @@ Here you can add screenshots or GIFs of your components in action.
 ![Image Alt](https://github.com/RaoAviralYadav/UI-Library/blob/228c48b12de0cd33003d0368843051f18696c7e2/public/DT%20Custom%20Not%20Found.png)
 
 **InputField Form in Different States (Error, Loading)**
-*(Your screenshot/GIF here)*
+![Default](https://github.com/RaoAviralYadav/UI-Library/blob/84f0d2d7daee71dc6cf2d31a07030c20f1c0ea21/public/IF%20Default.gif)
+
+![Pre](https://github.com/RaoAviralYadav/UI-Library/blob/84f0d2d7daee71dc6cf2d31a07030c20f1c0ea21/public/IF%20Pre.png)
+
+![Disabled](https://github.com/RaoAviralYadav/UI-Library/blob/84f0d2d7daee71dc6cf2d31a07030c20f1c0ea21/public/IF%20Disabled.gif)
+
+![Red](https://github.com/RaoAviralYadav/UI-Library/blob/84f0d2d7daee71dc6cf2d31a07030c20f1c0ea21/public/IF%20Red.png)
+
+![Ghost](https://github.com/RaoAviralYadav/UI-Library/blob/84f0d2d7daee71dc6cf2d31a07030c20f1c0ea21/public/IF%20Ghost.gif)
 
 
 # React + TypeScript + Vite
