@@ -8,18 +8,18 @@ A curated collection of robust, reusable, and well-tested React components, buil
 
 ## Table of Contents
 
-  - [About The Project](https://www.google.com/search?q=%23about-the-project)
-  - [Component Documentation](https://www.google.com/search?q=%23component-documentation)
-      - [DataTable](https://www.google.com/search?q=%23datatable)
-      - [InputField Form](https://www.google.com/search?q=%23inputfield-form)
-  - [My Approach](https://www.google.com/search?q=%23my-approach)
-  - [Tech Stack](https://www.google.com/search?q=%23tech-stack)
-  - [Folder Structure](https://www.google.com/search?q=%23folder-structure)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation](https://www.google.com/search?q=%23installation)
-  - [Available Scripts](https://www.google.com/search?q=%23available-scripts)
-  - [Showcase](https://www.google.com/search?q=%23showcase)
+- [About The Project](#about-the-project)
+- [Component Documentation](#component-documentation)
+  - [DataTable](#datatable)
+  - [InputField Form](#inputfield-form)
+- [My Approach](#my-approach)
+- [Tech Stack](#tech-stack)
+- [Folder Structure](#folder-structure)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Available Scripts](#available-scripts)
+- [Showcase](#showcase)
 
 -----
 
