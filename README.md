@@ -157,7 +157,7 @@ import { InputField } from './components/InputField';
 
 ## Tech Stack
 
-  * **[Next.js](https://nextjs.org/) / [React](https://reactjs.org/)**: A powerful framework for building server-rendered and static web applications.
+  * **[React](https://reactjs.org/)**: A powerful framework for building server-rendered and static web applications.
   * **[TypeScript](https://www.typescriptlang.org/)**: Provides static typing to enhance code quality and developer experience.
   * **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapid UI development.
   * **[Storybook](https://storybook.js.org/)**: A tool for building, testing, and documenting UI components in isolation.
