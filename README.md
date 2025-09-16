@@ -240,7 +240,7 @@ In the project directory, you can run:
 Here you can add screenshots or GIFs of your components in action.
 
 **DataTable with Sorting and Selection**
-*(Your screenshot/GIF here)*
+![Image Alt]()
 
 **InputField Form in Different States (Error, Loading)**
 *(Your screenshot/GIF here)*
