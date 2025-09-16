@@ -204,11 +204,11 @@ Follow these instructions to get a local copy up and running.
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/RaoAviralYadav/UI-Library.git
     ```
 2.  Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd UI-Library
     ```
 3.  Install dependencies:
     ```sh
