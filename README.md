@@ -240,6 +240,18 @@ In the project directory, you can run:
 Here you can add screenshots or GIFs of your components in action.
 
 **DataTable with Sorting and Selection**
+![Default](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20Default.gif)
+
+![Multi](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20Multi.gif)
+
+![Single](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20single%20select.png)
+
+![Pagination](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20Pagnination.gif)
+
+![Load](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20Load.gif)
+
+![Not found](https://github.com/RaoAviralYadav/UI-Library/blob/964041b3a4b9bca2597b99c132d7971f5f4f8471/public/DT%20Not%20Found.png)
+
 ![Image Alt](https://github.com/RaoAviralYadav/UI-Library/blob/228c48b12de0cd33003d0368843051f18696c7e2/public/DT%20Custom%20Not%20Found.png)
 
 **InputField Form in Different States (Error, Loading)**
